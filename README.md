@@ -3,6 +3,7 @@ Part A: Bayesian Classification (Quadratic Multiclass Classification)
 
 For this part of homework, you have to generate two datasets for three classes each with 500 samples from three Gaussian distribution for each dataset described below:
 Dataset#1:
+
 ![Screenshot (107)](https://github.com/razimasoodi/Bayesian-Classification-and-Naive-Bayes-Classification/assets/170275013/fff59670-abd9-4298-848e-ef7ee1acb431)
 
 
